@@ -1,0 +1,22 @@
+Hello this is a debug message
+Hello this is an info message
+DEBUG
+INFO
+WARN
+ERROR
+FATAL
+DEBUG
+INFO
+WARN
+ERROR
+FATAL
+DEBUG
+INFO
+WARN
+ERROR
+FATAL
+2020-10-14-main-DEBUG-log4j.Runner:DEBUG
+2020-10-14-main-INFO -log4j.Runner:INFO
+2020-10-14-main-WARN -log4j.Runner:WARN
+2020-10-14-main-ERROR-log4j.Runner:ERROR
+2020-10-14-main-FATAL-log4j.Runner:FATAL
