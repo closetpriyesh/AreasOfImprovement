@@ -1,0 +1,7 @@
+com\epam\configurations\ConfigDriver.class
+com\epam\service\WebDriverFactory.class
+com\epam\constants\LocationConstants.class
+com\epam\pages\ShoppingPage.class
+com\epam\pages\HomePage.class
+com\epam\constants\WebConstants.class
+com\epam\configurations\WebDriverFactory.class

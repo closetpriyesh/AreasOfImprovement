@@ -1,0 +1,366 @@
+2020-10-18-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-18-main-INFO -com.epam.BaseTest:New test setup
+2020-10-18-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-18-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-18-main-INFO -com.epam.BaseTest:New test setup
+2020-10-18-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-18-main-INFO -com.epam.BaseTest:This was test no. 2
+2020-10-18-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-18-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-18-main-INFO -com.epam.BaseTest:New test setup
+2020-10-18-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-18-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-18-main-INFO -com.epam.BaseTest:New test setup
+2020-10-18-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-18-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-18-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-18-main-INFO -com.epam.BaseTest:This was test no. 2
+2020-10-18-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 2
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 2
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 3
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 3
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 3
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 3
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 3
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 3
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Base test set up
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 2
+2020-10-19-main-INFO -com.epam.BaseTest:Base test teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Suite execution started
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 1
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home class set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.pages.HomePage:Home method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 1
+2020-10-19-main-INFO -com.epam.BaseTest:New test setup
+2020-10-19-main-INFO -com.epam.BaseTest:This is test no. 2
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping class set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobiles' prices...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method set up
+2020-10-19-main-INFO -com.epam.pages.HomePage:Opening shopping page...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Getting all mobile cards...
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.pages.ShoppingPage:Shopping method teardown
+2020-10-19-main-INFO -com.epam.BaseTest:Test tear down
+2020-10-19-main-INFO -com.epam.BaseTest:This was test no. 2
+2020-10-19-main-INFO -com.epam.BaseTest:Suite teardown
